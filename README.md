@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi~
 
 <!--
 **cristinacristurean/cristinacristurean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I currently have basic knowledge of Python, as well as some knowledge of HTML and CSS.
+# One of my main goals is to learn web development.
+# I'm currently working on my first "big" project in Python - a library and reading list manager.
