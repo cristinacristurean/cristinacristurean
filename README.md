@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 #### Name: Cristina
 #### Nickname: Kurisu
-#### Age: 25
-#### On my way to becoming a programmer!
+#### Age: 26
+#### Learning Data Analytics & Programming
 
-##### 🧠 I currently have basic knowledge of Python, as well as some knowledge of HTML and CSS.
-##### 🌟 One of my main goals is to learn web development.
-##### 🖥️ I'm currently working on my first "big" project in Python - a library and reading list manager.
+##### 🧠 I currently know Excel, have basic knowledge of Python, as well as some knowledge of HTML and CSS.
